@@ -62,7 +62,7 @@ h1.heading {
   text-transform: uppercase;
   font-weight: 400;
   font-size: 10rem;
-  line-height: 13.6rem;
+  line-height: 10.6rem;
 }
 @media only screen and (max-width: 62em) {
   h1.heading {
@@ -1619,12 +1619,12 @@ button {
   }
 }
 .header .hero__img .like-box-2 {
-  bottom: 16rem;
+  bottom: 10rem;
   right: 8rem;
 }
 @media only screen and (max-width: 62em) {
   .header .hero__img .like-box-2 {
-    right: 2rem;
+    right: 3rem;
   }
 }
 .header .hero__img .hero-img {
